@@ -1,0 +1,11 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+mac-cafe.vn	TRUE	/	FALSE	1999999999	_landing_page	/
+mac-cafe.vn	TRUE	/	FALSE	1999999999	_session_id	114v3hzohvuhp1kkutxwinrh
+mac-cafe.vn	TRUE	/	FALSE	1999999999	_orig_referrer	http://mac-cafe.vn/
+.tinhte.vn	TRUE	/	FALSE	1999999999	__cfduid	d55999ec6a56d4bc6ad382ab0cee65b1b1543468779
+.makeagif.com	TRUE	/	FALSE	1999999999	__cfduid	db0e3e7fa57403d1cf6a6cd0fbe03d53f1543470925
+.cdnforo.com	TRUE	/	FALSE	1999999999	__cfduid	da9e51c849a8102fff2d4c9fc8e3ee9bd1543470944
+.hstatic.net	TRUE	/	FALSE	1999999999	__cfduid	d56610d76a6689e76d6c72338319ea6611543472530
+mac-cafe.vn	TRUE	/	FALSE	1999999999	_bizweb	1543480621--62059--4792703714504b4454f5ea8d9a4e0c8bc72ae013caa54fb884e3aad0744ae289
+
